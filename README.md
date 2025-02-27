@@ -1,5 +1,5 @@
 
-### Hello There! 👋
+## Hello There! 👋
 
 <p> I'm Lucas Ravi, I'm studying computer science and following the Full-Stack path at rocketseat!
 
