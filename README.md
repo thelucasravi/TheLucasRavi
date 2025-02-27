@@ -29,6 +29,6 @@
 
 ### 📋 Means of contact for work/projects
 
-![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <p> lucasraviprofissional@gmail.com <p>
+![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(lucasraviprofissional@gmail.com)
 
 
