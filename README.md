@@ -4,7 +4,6 @@
 <p> I'm Lucas Ravi, I'm studying computer science and following the Full-Stack path at rocketseat!
 
 ![Ravi GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLucasRavi&show_icons=true&theme=apprentice)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLucasRavi&layout=compact&theme=apprentice)
 
 ### 💻 Technologies that I use in my daily life
 
