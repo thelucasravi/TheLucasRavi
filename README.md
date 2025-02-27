@@ -32,5 +32,3 @@
 ### 🚀 Stats 
 
 ![Ravi GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLucasRavi&show_icons=true&theme=apprentice)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qlkfuroq5lihalatl3v54w3ua&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
