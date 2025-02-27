@@ -30,5 +30,4 @@
 ### 📋 Means of contact for work/projects
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnZxlXMPHKHpkNHFLHzMrgcXZzRCMMwZPnTsrcgbsWPJtBkVBFLsZPnbhrLDbPLDZcbSD)
-
-
+[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zTYayMY7mD)
