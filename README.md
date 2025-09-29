@@ -12,7 +12,6 @@
 ### 🔨 Tools I use in my daily life
 
 ![Blog](https://camo.githubusercontent.com/4819d126312003b6b8b60092b530f0d81a19f198c9d3df321129cd67b7675cdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3231353935393f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d626c7565)
-![Blog](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ### 🙂 I'm Learning
 
